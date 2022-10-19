@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidAssignmentOne</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="slide_show_fragment_label">Slide Show Fragment</string>
+
+    <string name="empty_data_alert">You did not have slides</string>
+    <string name="checkAnswers">Check Answers</string>
+</resources>
